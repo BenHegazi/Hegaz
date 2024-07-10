@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.4.1"
+  },
+  "name": "car_rental_sys",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.4.0",
+    "eslint": "^9.4.0",
+    "globals": "^15.4.0"
+  }
+}
